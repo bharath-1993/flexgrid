@@ -49,6 +49,7 @@ table {
 .iva-container {
   position: relative;
   margin: 0 auto;
+  background-color: pink;
 }
 
 .atg-row {
